@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+   float NUM1, NUM2, NUM3, soma, formsub, mult, div;
+printf (" digite 3 valores: \N");
+scanf ("%F %F %F &NUM1, &NUM2,&NU3);
+soma= (NUM1 + NUM2 + NUM3);
+formsub= (NUM1 - NUM2 - NUM3) + soma
+mult= (NUM1 - NUM2 - NUM3);
+div= (NUM1 + NUM2) / NUM3
+
+Printf ("%F %F %F", soma, formsub, mult, div);
+
+}
