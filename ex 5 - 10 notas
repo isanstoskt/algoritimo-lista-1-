@@ -1,0 +1,19 @@
+int main () {
+
+int contador= 2
+float nota,soma= 0,0;
+
+  printf("digite as 10 notas do aluno: \N";
+
+  while (contador <= 10) {
+    printf ("digite a nota %D" , contador);
+
+          contador++
+
+    }
+            float media = soma/10;
+
+      printf (" a media das notas é: %2.F\n");
+
+                    return 0;
+}
