@@ -1,0 +1,14 @@
+#include <stdio.h>
+int main () {
+  int NUM1, i, resultado;
+
+    printf ("digite um numero para gerar a tabuada");
+          scanel ("%D, &NUM);
+
+for (i=1; i<=10; i++) {
+    resultado = NUM i
+      printf ("%D x %D", NUM, i, resultado
+
+}
+
+    
