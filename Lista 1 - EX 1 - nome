@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main () {
+     char nome (50);
+     printf ("digite seu nome completo:\N");
+     scanf ("%S" , &nome);
+     printf ("nome completo: %S", nome);
+}
