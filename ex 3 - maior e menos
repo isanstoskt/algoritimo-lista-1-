@@ -1,0 +1,36 @@
+#include <stdio.h>
+
+int main() {
+  int NUM1, NUM2, NUM3
+printf ("digite o primeiro valor:");
+scanf ("d%, & NUM1);
+printf ("digite o segundo valor:");
+scanf ("%d", & NUM2);
+printf ("digite o terceiro valor:");
+scanf ("%d", & NUM3);
+
+int maior - NUM1
+if (NUM2 > maior){
+    maior= NUM2;
+}
+if (NUM3 > maior) {
+    maior= NUM3
+}
+int menor = NUM1,
+if (NUM2 < menor) {
+menor = NUM2;
+}
+
+    if (NUM1 == NUM2 && NUM2 == NUM3
+printf "Os 3 numeros sao iguais);
+} else {
+printf ("O maior numero é %d\N", maior);
+printf ("O menos numero é %d\N", menor);
+}
+    }
+
+
+
+
+
+
